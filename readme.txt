@@ -13,3 +13,4 @@ A在修改了readme.txt为readme.md后，我在修改readme.txt的内容，在�
 测试一下rebase git-learning-2
 测试一下rebase git-learning
 在master分支添加东西
+在feature2中添加东西1
