@@ -4,3 +4,4 @@ github在遠程自己創建了分支feature
 使用git fetch后，再次push也并沒有失敗，現在在github上直接修改readme，并且已經commit,現在本地上再次Push看看會不會報錯。
 添加一条内容
 继续修改
+继续修改3
