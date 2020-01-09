@@ -6,3 +6,4 @@ github在遠程自己創建了分支feature
 继续修改
 继续修改3
 A在修改了readme.txt为readme.md后，我在修改readme.txt的内容，在进行提交
+修改readme.md的文件名，并且内容
