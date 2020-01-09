@@ -11,3 +11,4 @@ A在修改了readme.txt为readme.md后，我在修改readme.txt的内容，在�
 继续在尝试一次
 修改readme.md的文件名为readme.txt，并且内容
 测试一下rebase git-learning-2
+测试一下rebase git-learning
